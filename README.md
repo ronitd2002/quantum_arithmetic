@@ -8,3 +8,7 @@ Steps to achieve
 - QFT both $|a\rangle$ and $|b\rangle$ and then do bitwise multiplication. 
 
 ## Exponentiator logic.
+
+---
+
+This repository is a work in progress
